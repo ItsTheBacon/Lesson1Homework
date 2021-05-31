@@ -53,6 +53,7 @@
         android:background="@drawable/style_inputs"
         android:drawableLeft="@drawable/icon_lock_24"
         android:hint="Password"
+        android:maxLength="15"
         android:inputType="textPassword"
         android:textColor="@color/white"
         android:textColorHint="@color/white"
